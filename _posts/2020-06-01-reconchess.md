@@ -4,7 +4,7 @@ title: "Reconchess"
 author: "Mazhar Shaikh"
 categories: projects
 tags: [chess, machine learning]
-image: friends.jpg
+image: rbc-black.png
 ---
 
 ## This is a page to track progress on the reconchess project
