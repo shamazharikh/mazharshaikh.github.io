@@ -2,9 +2,9 @@
 layout: post
 title: "First Post"
 author: "Mazhar Shaikh"
-categories: facts
+categories: blog
 tags: [sample]
-image: cuba-4.jpg
+image: friends.jpg
 ---
 
 ## This is a test post.
