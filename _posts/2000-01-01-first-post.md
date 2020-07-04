@@ -4,7 +4,7 @@ title: "First Post"
 author: "Mazhar Shaikh"
 categories: blog
 tags: [sample]
-image: ram.jpg
+image: friends.jpg
 ---
 
 ## This is a test post.
